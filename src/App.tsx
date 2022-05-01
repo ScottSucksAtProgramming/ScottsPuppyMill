@@ -4,9 +4,9 @@ import "./App.css";
 import { ChainId, DAppProvider } from "@usedapp/core";
 import { ConnectButton } from "./components/ConnectButton";
 import { WalletAddress } from "./components/WalletAddress";
-import { MintPug } from "./components/MintPug";
-import { MintStBernard } from "./components/MintStBernard";
-import { MintShibaInu } from "./components/MintShibaInu";
+//import { MintPug } from "./components/MintPug";
+//import { MintStBernard } from "./components/MintStBernard";
+import { MintShibaInu, MintPug, MintStBernard } from "./components/MintButtons";
 
 function App() {
   return (
