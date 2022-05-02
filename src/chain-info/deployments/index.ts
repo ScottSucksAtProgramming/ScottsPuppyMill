@@ -1,1 +1,1 @@
-export const PuppyMillAddress = "0x8c90d132F4bD9DE1090C7863Af68a461c53e0732"
+export const PuppyMillAddress = "0x74E841c96709599E6ddb0Ae421BC4bdEaf892900"
